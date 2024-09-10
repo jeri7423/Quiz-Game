@@ -28,8 +28,6 @@ The Java Quiz Application is a simple quiz application built using Java Swing. I
 1. **Compile the Code**: Ensure you have Java Development Kit (JDK) installed. Compile the Java files using the command:
     ```bash
     javac Login.java
-    javac Quiz.java
-    javac Score.java
     ```
 2. **Run the Application**: Execute the main class to start the application:
     ```bash
